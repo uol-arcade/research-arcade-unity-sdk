@@ -1,4 +1,7 @@
-![abc](./repo-assets/arcade-s.png)
+<p align="center">
+  <img width="300" src="./repo-assets/arcade-s.png" style="margin-bottom: 5rem;">
+</p>
+
 
 # Unity SDK for the Research Arcade 
 This is a small SDK to help build games targetting the Research Arcade platform. The Research Arcade platform runs games via WebGL, so please switch your project to WebGL before building. This SDK helps in two main ways:
