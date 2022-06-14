@@ -10,7 +10,7 @@ This is a small SDK to help build games targetting the Research Arcade platform.
 - Offering methods to perform native navigation easy, such as returning to the arcade's main menu rather than exiting a game.
 
 ## Notes before you get started
-Using the SDK requires that you have at least some knowledge of Unity and how to import libraries into your project. Furthermore, if you haven't already read the development guide, please do so. It will give you a better understanding of how the software & hardware of the arcade cabinets work.
+Using the SDK requires that you have at least some knowledge of Unity and how to import libraries into your project. Furthermore, if you haven't already read the development guide, please do so [here](https://socstech.support/media/pdf/2022-ra-dev-guide.pdf). It will give you a better understanding of how the software & hardware of the arcade cabinets work.
 
 
 
