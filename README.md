@@ -96,3 +96,7 @@ if(ArcadeInput.Exit.Down)
 ```
 
 Notice that the full namespace is qualified in invokation here, this is to eliminate ambiguity between `UnityEngine.UI.Navigation` and `ResearchArcade.Navigation`. 
+
+
+## A final note
+As a final note, please refer to the development guide for further guidance and how to contact us if you get into trouble with the SDK. You can also raise a issue on the issues page and we will check it out. Finally, if you are looking to import the research arcade logo into your game, you can download large media assets from [here](https://socstech.support/media/logos/ra-media-assets.zip).
