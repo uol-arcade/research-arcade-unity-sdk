@@ -8,7 +8,7 @@ namespace ResearchArcade
     {
         private const string RESEARCH_ARCADE_REDIRECT_URL = @"https://lncn.ac/rarcade";
 
-        public void ExitGame()
+        public static void ExitGame()
         {
             //Open the URL
             Application.OpenURL(RESEARCH_ARCADE_REDIRECT_URL);

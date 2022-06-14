@@ -18,7 +18,9 @@ namespace ResearchArcade
             JoyUp = new Binding(KeyCode.UpArrow),
             JoyDown = new Binding(KeyCode.DownArrow),
             JoyLeft = new Binding(KeyCode.LeftArrow),
-            JoyRight = new Binding(KeyCode.RightArrow)
+            JoyRight = new Binding(KeyCode.RightArrow),
+
+            Start = new Binding(KeyCode.Return)
         };
 
         public static PlayerKeymap Player2 = new PlayerKeymap()
@@ -33,11 +35,11 @@ namespace ResearchArcade
             JoyUp = new Binding(KeyCode.W),
             JoyDown = new Binding(KeyCode.S),
             JoyLeft = new Binding(KeyCode.A),
-            JoyRight = new Binding(KeyCode.D)
+            JoyRight = new Binding(KeyCode.D),
+
+            Start = new Binding(KeyCode.Backspace)
         };
 
-        public static Binding Quit = new Binding(KeyCode.Q);
-
-        public static Binding Exit = new Binding(KeyCode.Escape);
+        public static Binding Exit = new Binding(KeyCode.Q);
     }
 }

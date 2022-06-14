@@ -17,5 +17,7 @@ namespace ResearchArcade
         public Binding JoyDown = default;
         public Binding JoyLeft = default;
         public Binding JoyRight = default;
+
+        public Binding Start = default;
     }
 }
